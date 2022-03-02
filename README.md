@@ -27,6 +27,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 This repo use to learn api with nestjs
 [swagger-ui](https://swagger.io/)
+[nestjsx](https://github.com/nestjsx)
 
 ## Installation
 
